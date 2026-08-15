@@ -11,3 +11,7 @@ Day 3: I got so much work done in the morning and im finally catching up, Im jus
 I will also make sure to see if i can make any updates on my headless wordpress task manager
 
 Day 4: Abit overwheleming day today, got all the pages completed. Although client was not satisfied as there was no updates on his feedback. So I decided to build a task manager tonight that manages tasks, and make sure that we stick to out deliverables according to the clients package. This way we developers can focus on producing results and the account manager can focus on communication.
+
+Day 5: I was mostly focusing on the task manager and I must say I got most of what i want completed and im learning alot of authentication and making it secured and stored it the right place for each user. Im also now currently workung on persmissions that each user has.
+
+
