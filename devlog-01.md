@@ -14,4 +14,6 @@ Day 4: Abit overwheleming day today, got all the pages completed. Although clien
 
 Day 5: I was mostly focusing on the task manager and I must say I got most of what i want completed and im learning alot of authentication and making it secured and stored it the right place for each user. Im also now currently workung on persmissions that each user has.
 
+Day 6: I havent done much since it was a sunday. I just spent time with family whole day.
 
+Day 7: I will be focusing on deploying my app
