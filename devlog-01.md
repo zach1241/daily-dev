@@ -17,3 +17,5 @@ Day 5: I was mostly focusing on the task manager and I must say I got most of wh
 Day 6: I havent done much since it was a sunday. I just spent time with family whole day.
 
 Day 7: I will be focusing on deploying my app
+
+Day 8: I did not deploy the app there is too much security problems, users are able to become different users. So im going to create a Product Ready Event Manager Today with a youtube tutorial.
