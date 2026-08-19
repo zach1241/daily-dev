@@ -18,4 +18,4 @@ Day 6: I havent done much since it was a sunday. I just spent time with family w
 
 Day 7: I will be focusing on deploying my app
 
-Day 8: I did not deploy the app there is too much security problems, users are able to become different users. So im going to create a Product Ready Event Manager Today with a youtube tutorial.
+Day 8: I did not deploy the app there is too much security problems, users are able to become different users. So im going to create a Product Ready Event Manager Today with a youtube tutorial. I'm struggling with agency OS to get deployed becuase there is not proper longevity structure for the data base and the scurity is lacking aswell in that department.
