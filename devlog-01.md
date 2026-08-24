@@ -23,3 +23,6 @@ Day 8: I did not deploy the app there is too much security problems, users are a
 Day 9: I was sick the whole day so  i did nothing and today im busy recovering. Had chrildren over here and it was so distracting.
 
 Day 10: i made alot of security changes to AgencyOS but to be honest i feel like im just running in circles with it, lol
+
+Day 11: I just made a massive change on my github profile and it looks 10 times better.
+
