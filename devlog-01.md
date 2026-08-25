@@ -26,3 +26,4 @@ Day 10: i made alot of security changes to AgencyOS but to be honest i feel like
 
 Day 11: I just made a massive change on my github profile and it looks 10 times better.
 
+Day 12: I made a lot of progress on AgencyOS today. I connected the app properly to Supabase without relying on seed data, improved the authentication, database structure, permissions, and security, and got the main agency data working. I also changed the workflow so that when a package is assigned to a client, its deliverables automatically become tasks that an admin or owner can allocate to an active team member. I removed all the AI-generation features as well. The app is now running locally and is in a much better place for testing.
