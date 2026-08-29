@@ -27,3 +27,11 @@ Day 10: i made alot of security changes to AgencyOS but to be honest i feel like
 Day 11: I just made a massive change on my github profile and it looks 10 times better.
 
 Day 12: I made a lot of progress on AgencyOS today. I connected the app properly to Supabase without relying on seed data, improved the authentication, database structure, permissions, and security, and got the main agency data working. I also changed the workflow so that when a package is assigned to a client, its deliverables automatically become tasks that an admin or owner can allocate to an active team member. I removed all the AI-generation features as well. The app is now running locally and is in a much better place for testing.
+
+Day 13: I focused on getting AgencyOS closer to a real production deployment. I added a production build for RunCloud, fixed asset loading on the test domain, and tested the automatic deployment workflow. I also spent some time building out a YouTube automation project with a video-building script, prompts, and documentation.
+
+Day 14: I started a new custom WordPress project called NORTH/FORM and moved very quickly with it. I scaffolded the theme, wrote the design specification, built the static homepage, improved the accessibility and overall architecture, and then experimented with several stronger art directions and coordinated motion. I also designed and implemented an ACF Gutenberg block architecture so the homepage can be managed through WordPress content instead of being hard-coded. On top of that, I documented the Peak Leads clients, responsibilities, deliverables, and weekly SEO plans.
+
+Day 15: I hardened the NORTH/FORM theme for production and continued preparing its visual assets. I also completed a large SEO content batch: four articles each for In the Light Roofing, FIT Roofing, Logic LC, and Water Automation, plus a master index to keep all 16 articles organised. This was a big content-production day alongside the development work.
+
+Day 16: Today I started turning this devlog into a proper daily workflow. I located the repository, reviewed my work since the last entry, and prepared it for an automated daily update, commit, and GitHub push. I also worked through some Linux desktop setup, including investigating a screen recorder, while keeping an eye on the next steps for my active projects.
